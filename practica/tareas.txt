@@ -1,0 +1,5 @@
+1:Tener todas mis tareas del cole
+2:Cumplir mis tareas de la casa
+3:Limpiar mi cuarto
+4:Lavar mi ropa
+5:limpiar la mesa
